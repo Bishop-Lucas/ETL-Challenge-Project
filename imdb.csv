@@ -1,0 +1,1001 @@
+Title,Genre,Rank,Year,Rating,Metascore
+Guardians of the Galaxy,"Action,Adventure,Sci-Fi",1,2014,8.1,76.0
+Prometheus,"Adventure,Mystery,Sci-Fi",2,2012,7.0,65.0
+Split,"Horror,Thriller",3,2016,7.3,62.0
+Sing,"Animation,Comedy,Family",4,2016,7.2,59.0
+Suicide Squad,"Action,Adventure,Fantasy",5,2016,6.2,40.0
+The Great Wall,"Action,Adventure,Fantasy",6,2016,6.1,42.0
+La La Land,"Comedy,Drama,Music",7,2016,8.3,93.0
+Mindhorn,Comedy,8,2016,6.4,71.0
+The Lost City of Z,"Action,Adventure,Biography",9,2016,7.1,78.0
+Passengers,"Adventure,Drama,Romance",10,2016,7.0,41.0
+Fantastic Beasts and Where to Find Them,"Adventure,Family,Fantasy",11,2016,7.5,66.0
+Hidden Figures,"Biography,Drama,History",12,2016,7.8,74.0
+Rogue One,"Action,Adventure,Sci-Fi",13,2016,7.9,65.0
+Moana,"Animation,Adventure,Comedy",14,2016,7.7,81.0
+Colossal,"Action,Comedy,Drama",15,2016,6.4,70.0
+The Secret Life of Pets,"Animation,Adventure,Comedy",16,2016,6.6,61.0
+Hacksaw Ridge,"Biography,Drama,History",17,2016,8.2,71.0
+Jason Bourne,"Action,Thriller",18,2016,6.7,58.0
+Lion,"Biography,Drama",19,2016,8.1,69.0
+Arrival,"Drama,Mystery,Sci-Fi",20,2016,8.0,81.0
+Gold,"Adventure,Drama,Thriller",21,2016,6.7,49.0
+Manchester by the Sea,Drama,22,2016,7.9,96.0
+Hounds of Love,"Crime,Drama,Horror",23,2016,6.7,72.0
+Trolls,"Animation,Adventure,Comedy",24,2016,6.5,56.0
+Independence Day: Resurgence,"Action,Adventure,Sci-Fi",25,2016,5.3,32.0
+Paris pieds nus,Comedy,26,2016,6.8,
+Bahubali: The Beginning,"Action,Adventure,Drama",27,2015,8.3,
+Dead Awake,"Horror,Thriller",28,2016,4.7,
+Bad Moms,Comedy,29,2016,6.2,60.0
+Assassin's Creed,"Action,Adventure,Drama",30,2016,5.9,36.0
+Why Him?,Comedy,31,2016,6.3,39.0
+Nocturnal Animals,"Drama,Thriller",32,2016,7.5,67.0
+X-Men: Apocalypse,"Action,Adventure,Sci-Fi",33,2016,7.1,52.0
+Deadpool,"Action,Adventure,Comedy",34,2016,8.0,65.0
+Resident Evil: The Final Chapter,"Action,Horror,Sci-Fi",35,2016,5.6,49.0
+Captain America: Civil War,"Action,Adventure,Sci-Fi",36,2016,7.9,75.0
+Interstellar,"Adventure,Drama,Sci-Fi",37,2014,8.6,74.0
+Doctor Strange,"Action,Adventure,Fantasy",38,2016,7.6,72.0
+The Magnificent Seven,"Action,Adventure,Western",39,2016,6.9,54.0
+5- 25- 77,"Comedy,Drama",40,2007,7.1,
+Sausage Party,"Animation,Adventure,Comedy",41,2016,6.3,66.0
+Moonlight,Drama,42,2016,7.5,99.0
+Don't Fuck in the Woods,Horror,43,2016,2.7,
+The Founder,"Biography,Drama,History",44,2016,7.2,66.0
+Lowriders,Drama,45,2016,6.3,57.0
+Pirates of the Caribbean: On Stranger Tides,"Action,Adventure,Fantasy",46,2011,6.7,45.0
+Miss Sloane,"Drama,Thriller",47,2016,7.3,64.0
+Fallen,"Adventure,Drama,Fantasy",48,2016,5.6,
+Star Trek Beyond,"Action,Adventure,Sci-Fi",49,2016,7.1,68.0
+The Last Face,Drama,50,2016,3.7,16.0
+Star Wars: Episode VII - The Force Awakens,"Action,Adventure,Fantasy",51,2015,8.1,81.0
+Underworld: Blood Wars,"Action,Adventure,Fantasy",52,2016,5.8,23.0
+Mother's Day,"Comedy,Drama",53,2016,5.6,18.0
+John Wick,"Action,Crime,Thriller",54,2014,7.2,68.0
+The Dark Knight,"Action,Crime,Drama",55,2008,9.0,82.0
+Silence,"Adventure,Drama,History",56,2016,7.3,79.0
+Don't Breathe,"Crime,Horror,Thriller",57,2016,7.2,71.0
+Me Before You,"Drama,Romance",58,2016,7.4,51.0
+Their Finest,"Comedy,Drama,Romance",59,2016,7.0,76.0
+Sully,"Biography,Drama",60,2016,7.5,74.0
+Batman v Superman: Dawn of Justice,"Action,Adventure,Sci-Fi",61,2016,6.7,44.0
+The Autopsy of Jane Doe,"Horror,Mystery,Thriller",62,2016,6.8,65.0
+The Girl on the Train,"Crime,Drama,Mystery",63,2016,6.5,48.0
+Fifty Shades of Grey,"Drama,Romance,Thriller",64,2015,4.1,46.0
+The Prestige,"Drama,Mystery,Sci-Fi",65,2006,8.5,66.0
+Kingsman: The Secret Service,"Action,Adventure,Comedy",66,2014,7.7,58.0
+Patriots Day,"Drama,History,Thriller",67,2016,7.4,69.0
+Mad Max: Fury Road,"Action,Adventure,Sci-Fi",68,2015,8.1,90.0
+Wakefield,Drama,69,2016,7.5,61.0
+Deepwater Horizon,"Action,Drama,Thriller",70,2016,7.2,68.0
+The Promise,"Drama,History",71,2016,5.9,49.0
+Allied,"Action,Drama,Romance",72,2016,7.1,60.0
+A Monster Calls,"Drama,Fantasy",73,2016,7.5,76.0
+Collateral Beauty,"Drama,Romance",74,2016,6.8,23.0
+Zootopia,"Animation,Adventure,Comedy",75,2016,8.1,78.0
+Pirates of the Caribbean: At World's End,"Action,Adventure,Fantasy",76,2007,7.1,50.0
+The Avengers,"Action,Sci-Fi",77,2012,8.1,69.0
+Inglourious Basterds,"Adventure,Drama,War",78,2009,8.3,69.0
+Pirates of the Caribbean: Dead Man's Chest,"Action,Adventure,Fantasy",79,2006,7.3,53.0
+Ghostbusters,"Action,Comedy,Fantasy",80,2016,5.3,60.0
+Inception,"Action,Adventure,Sci-Fi",81,2010,8.8,74.0
+Captain Fantastic,"Comedy,Drama",82,2016,7.9,72.0
+The Wolf of Wall Street,"Biography,Comedy,Crime",83,2013,8.2,75.0
+Gone Girl,"Crime,Drama,Mystery",84,2014,8.1,79.0
+Furious Seven,"Action,Crime,Thriller",85,2015,7.2,67.0
+Jurassic World,"Action,Adventure,Sci-Fi",86,2015,7.0,59.0
+Live by Night,"Crime,Drama",87,2016,6.4,49.0
+Avatar,"Action,Adventure,Fantasy",88,2009,7.8,83.0
+The Hateful Eight,"Crime,Drama,Mystery",89,2015,7.8,68.0
+The Accountant,"Action,Crime,Drama",90,2016,7.4,51.0
+Prisoners,"Crime,Drama,Mystery",91,2013,8.1,74.0
+Warcraft,"Action,Adventure,Fantasy",92,2016,7.0,32.0
+The Help,Drama,93,2011,8.1,62.0
+War Dogs,"Comedy,Crime,Drama",94,2016,7.1,57.0
+Avengers: Age of Ultron,"Action,Adventure,Sci-Fi",95,2015,7.4,66.0
+The Nice Guys,"Action,Comedy,Crime",96,2016,7.4,70.0
+Kimi no na wa,"Animation,Drama,Fantasy",97,2016,8.6,79.0
+The Void,"Horror,Mystery,Sci-Fi",98,2016,5.8,62.0
+Personal Shopper,"Drama,Mystery,Thriller",99,2016,6.3,77.0
+The Departed,"Crime,Drama,Thriller",100,2006,8.5,85.0
+Legend,"Biography,Crime,Drama",101,2015,7.0,55.0
+Thor,"Action,Adventure,Fantasy",102,2011,7.0,57.0
+The Martian,"Adventure,Drama,Sci-Fi",103,2015,8.0,80.0
+Contratiempo,"Crime,Mystery,Thriller",104,2016,7.9,
+The Man from U.N.C.L.E.,"Action,Adventure,Comedy",105,2015,7.3,56.0
+Hell or High Water,"Crime,Drama,Thriller",106,2016,7.7,88.0
+The Comedian,Comedy,107,2016,5.4,40.0
+The Legend of Tarzan,"Action,Adventure,Drama",108,2016,6.3,44.0
+All We Had,Drama,109,2016,5.8,48.0
+Ex Machina,"Drama,Mystery,Sci-Fi",110,2014,7.7,78.0
+The Belko Experiment,"Action,Horror,Thriller",111,2016,6.3,44.0
+12 Years a Slave,"Biography,Drama,History",112,2013,8.1,96.0
+The Bad Batch,"Romance,Sci-Fi",113,2016,6.1,65.0
+300,"Action,Fantasy,War",114,2006,7.7,52.0
+Harry Potter and the Deathly Hallows: Part 2,"Adventure,Drama,Fantasy",115,2011,8.1,87.0
+Office Christmas Party,Comedy,116,2016,5.8,42.0
+The Neon Demon,"Horror,Thriller",117,2016,6.2,51.0
+Dangal,"Action,Biography,Drama",118,2016,8.8,
+10 Cloverfield Lane,"Drama,Horror,Mystery",119,2016,7.2,76.0
+Finding Dory,"Animation,Adventure,Comedy",120,2016,7.4,77.0
+Miss Peregrine's Home for Peculiar Children,"Adventure,Drama,Family",121,2016,6.7,57.0
+Divergent,"Adventure,Mystery,Sci-Fi",122,2014,6.7,48.0
+Mike and Dave Need Wedding Dates,"Adventure,Comedy,Romance",123,2016,6.0,51.0
+Boyka: Undisputed IV,Action,124,2016,7.4,
+The Dark Knight Rises,"Action,Thriller",125,2012,8.5,78.0
+The Jungle Book,"Adventure,Drama,Family",126,2016,7.5,77.0
+Transformers: Age of Extinction,"Action,Adventure,Sci-Fi",127,2014,5.7,32.0
+Nerve,"Adventure,Crime,Mystery",128,2016,6.6,58.0
+Mamma Mia!,"Comedy,Family,Musical",129,2008,6.4,51.0
+The Revenant,"Adventure,Drama,Thriller",130,2015,8.0,76.0
+Fences,Drama,131,2016,7.3,79.0
+Into the Woods,"Adventure,Comedy,Drama",132,2014,6.0,69.0
+The Shallows,"Drama,Horror,Thriller",133,2016,6.4,59.0
+Whiplash,"Drama,Music",134,2014,8.5,88.0
+Furious 6,"Action,Crime,Thriller",135,2013,7.1,61.0
+The Place Beyond the Pines,"Crime,Drama,Thriller",136,2012,7.3,68.0
+No Country for Old Men,"Crime,Drama,Thriller",137,2007,8.1,91.0
+The Great Gatsby,"Drama,Romance",138,2013,7.3,55.0
+Shutter Island,"Mystery,Thriller",139,2010,8.1,63.0
+Brimstone,"Mystery,Thriller,Western",140,2016,7.1,44.0
+Star Trek,"Action,Adventure,Sci-Fi",141,2009,8.0,82.0
+Diary of a Wimpy Kid,"Comedy,Family",142,2010,6.2,56.0
+The Big Short,"Biography,Comedy,Drama",143,2015,7.8,81.0
+Room,Drama,144,2015,8.2,86.0
+Django Unchained,"Drama,Western",145,2012,8.4,81.0
+Ah-ga-ssi,"Drama,Mystery,Romance",146,2016,8.1,84.0
+The Edge of Seventeen,"Comedy,Drama",147,2016,7.4,77.0
+Watchmen,"Action,Drama,Mystery",148,2009,7.6,56.0
+Superbad,Comedy,149,2007,7.6,76.0
+Inferno,"Action,Adventure,Crime",150,2016,6.2,42.0
+The BFG,"Adventure,Family,Fantasy",151,2016,6.4,66.0
+The Hunger Games,"Adventure,Sci-Fi,Thriller",152,2012,7.2,68.0
+White Girl,Drama,153,2016,5.8,65.0
+Sicario,"Action,Crime,Drama",154,2015,7.6,82.0
+Twin Peaks: The Missing Pieces,"Drama,Horror,Mystery",155,2014,8.1,
+Aliens vs Predator - Requiem,"Action,Horror,Sci-Fi",156,2007,4.7,29.0
+Pacific Rim,"Action,Adventure,Sci-Fi",157,2013,7.0,64.0
+"Crazy, Stupid, Love.","Comedy,Drama,Romance",158,2011,7.4,68.0
+Scott Pilgrim vs. the World,"Action,Comedy,Fantasy",159,2010,7.5,69.0
+Hot Fuzz,"Action,Comedy,Mystery",160,2007,7.9,81.0
+Mine,"Thriller,War",161,2016,6.0,40.0
+Free Fire,"Action,Comedy,Crime",162,2016,7.0,63.0
+X-Men: Days of Future Past,"Action,Adventure,Sci-Fi",163,2014,8.0,74.0
+Jack Reacher: Never Go Back,"Action,Adventure,Crime",164,2016,6.1,47.0
+Casino Royale,"Action,Adventure,Thriller",165,2006,8.0,80.0
+Twilight,"Drama,Fantasy,Romance",166,2008,5.2,56.0
+Now You See Me 2,"Action,Adventure,Comedy",167,2016,6.5,46.0
+Woman in Gold,"Biography,Drama,History",168,2015,7.3,51.0
+13 Hours,"Action,Drama,History",169,2016,7.3,48.0
+Spectre,"Action,Adventure,Thriller",170,2015,6.8,60.0
+Nightcrawler,"Crime,Drama,Thriller",171,2014,7.9,76.0
+Kubo and the Two Strings,"Animation,Adventure,Family",172,2016,7.9,84.0
+Beyond the Gates,"Adventure,Horror",173,2016,5.2,59.0
+Her,"Drama,Romance,Sci-Fi",174,2013,8.0,90.0
+Frozen,"Animation,Adventure,Comedy",175,2013,7.5,74.0
+Tomorrowland,"Action,Adventure,Family",176,2015,6.5,60.0
+Dawn of the Planet of the Apes,"Action,Adventure,Drama",177,2014,7.6,79.0
+Tropic Thunder,"Action,Comedy",178,2008,7.0,71.0
+The Conjuring 2,"Horror,Mystery,Thriller",179,2016,7.4,65.0
+Ant-Man,"Action,Adventure,Comedy",180,2015,7.3,64.0
+Bridget Jones's Baby,"Comedy,Romance",181,2016,6.7,59.0
+The VVitch: A New-England Folktale,"Horror,Mystery",182,2015,6.8,83.0
+Cinderella,"Drama,Family,Fantasy",183,2015,7.0,67.0
+Realive,Sci-Fi,184,2016,5.9,
+Forushande,"Drama,Thriller",185,2016,8.0,85.0
+Love,"Drama,Romance",186,2015,6.0,51.0
+Billy Lynn's Long Halftime Walk,"Drama,War",187,2016,6.3,53.0
+Crimson Peak,"Drama,Fantasy,Horror",188,2015,6.6,66.0
+Drive,"Crime,Drama",189,2011,7.8,78.0
+Trainwreck,"Comedy,Drama,Romance",190,2015,6.3,75.0
+The Light Between Oceans,"Drama,Romance",191,2016,7.2,60.0
+Below Her Mouth,Drama,192,2016,5.6,42.0
+Spotlight,"Crime,Drama,History",193,2015,8.1,93.0
+Morgan,"Horror,Sci-Fi,Thriller",194,2016,5.8,48.0
+Warrior,"Action,Drama,Sport",195,2011,8.2,71.0
+Captain America: The First Avenger,"Action,Adventure,Sci-Fi",196,2011,6.9,66.0
+Hacker,"Crime,Drama,Thriller",197,2016,6.3,
+Into the Wild,"Adventure,Biography,Drama",198,2007,8.1,73.0
+The Imitation Game,"Biography,Drama,Thriller",199,2014,8.1,73.0
+Central Intelligence,"Action,Comedy,Crime",200,2016,6.3,52.0
+Edge of Tomorrow,"Action,Adventure,Sci-Fi",201,2014,7.9,71.0
+A Cure for Wellness,"Drama,Fantasy,Horror",202,2016,6.5,47.0
+Snowden,"Biography,Drama,Thriller",203,2016,7.3,58.0
+Iron Man,"Action,Adventure,Sci-Fi",204,2008,7.9,79.0
+Allegiant,"Action,Adventure,Mystery",205,2016,5.7,33.0
+X: First Class,"Action,Adventure,Sci-Fi",206,2011,7.8,65.0
+Raw (II),"Drama,Horror",207,2016,7.5,81.0
+Paterson,"Comedy,Drama,Romance",208,2016,7.5,90.0
+Bridesmaids,"Comedy,Romance",209,2011,6.8,75.0
+The Girl with All the Gifts,"Drama,Horror,Thriller",210,2016,6.7,67.0
+San Andreas,"Action,Adventure,Drama",211,2015,6.1,43.0
+Spring Breakers,Drama,212,2012,5.3,63.0
+Transformers,"Action,Adventure,Sci-Fi",213,2007,7.1,61.0
+Old Boy,"Action,Drama,Mystery",214,2013,5.8,49.0
+Thor: The Dark World,"Action,Adventure,Fantasy",215,2013,7.0,54.0
+Gods of Egypt,"Action,Adventure,Fantasy",216,2016,5.5,25.0
+Captain America: The Winter Soldier,"Action,Adventure,Sci-Fi",217,2014,7.8,70.0
+Monster Trucks,"Action,Adventure,Comedy",218,2016,5.7,41.0
+A Dark Song,"Drama,Horror",219,2016,6.1,67.0
+Kick-Ass,"Action,Comedy",220,2010,7.7,66.0
+Hardcore Henry,"Action,Adventure,Sci-Fi",221,2015,6.7,51.0
+Cars,"Animation,Adventure,Comedy",222,2006,7.1,73.0
+It Follows,"Horror,Mystery",223,2014,6.9,83.0
+The Girl with the Dragon Tattoo,"Crime,Drama,Mystery",224,2011,7.8,71.0
+We're the Millers,"Comedy,Crime",225,2013,7.0,44.0
+American Honey,Drama,226,2016,7.0,79.0
+The Lobster,"Comedy,Drama,Romance",227,2015,7.1,82.0
+Predators,"Action,Adventure,Sci-Fi",228,2010,6.4,51.0
+Maleficent,"Action,Adventure,Family",229,2014,7.0,56.0
+Rupture,"Horror,Sci-Fi,Thriller",230,2016,4.8,35.0
+Pan's Labyrinth,"Drama,Fantasy,War",231,2006,8.2,98.0
+A Kind of Murder,"Crime,Drama,Thriller",232,2016,5.2,50.0
+Apocalypto,"Action,Adventure,Drama",233,2006,7.8,68.0
+Mission: Impossible - Rogue Nation,"Action,Adventure,Thriller",234,2015,7.4,75.0
+The Huntsman: Winter's War,"Action,Adventure,Drama",235,2016,6.1,35.0
+The Perks of Being a Wallflower,"Drama,Romance",236,2012,8.0,67.0
+Jackie,"Biography,Drama,History",237,2016,6.8,81.0
+The Disappointments Room,"Drama,Horror,Thriller",238,2016,3.9,31.0
+The Grand Budapest Hotel,"Adventure,Comedy,Drama",239,2014,8.1,88.0
+The Host,"Action,Adventure,Romance",240,2013,5.9,35.0
+Fury,"Action,Drama,War",241,2014,7.6,64.0
+Inside Out,"Animation,Adventure,Comedy",242,2015,8.2,94.0
+Rock Dog,"Animation,Adventure,Comedy",243,2016,5.8,48.0
+Terminator Genisys,"Action,Adventure,Sci-Fi",244,2015,6.5,38.0
+Percy Jackson & the Olympians: The Lightning Thief,"Adventure,Family,Fantasy",245,2010,5.9,47.0
+Les Misérables,"Drama,Musical,Romance",246,2012,7.6,63.0
+Children of Men,"Drama,Sci-Fi,Thriller",247,2006,7.9,84.0
+20th Century Women,"Comedy,Drama",248,2016,7.4,83.0
+Spy,"Action,Comedy,Crime",249,2015,7.1,75.0
+The Intouchables,"Biography,Comedy,Drama",250,2011,8.6,57.0
+Bonjour Anne,"Comedy,Drama,Romance",251,2016,4.9,50.0
+Kynodontas,"Drama,Thriller",252,2009,7.3,73.0
+Straight Outta Compton,"Biography,Drama,History",253,2015,7.9,72.0
+The Amazing Spider-Man 2,"Action,Adventure,Sci-Fi",254,2014,6.7,53.0
+The Conjuring,"Horror,Mystery,Thriller",255,2013,7.5,68.0
+The Hangover,Comedy,256,2009,7.8,73.0
+Battleship,"Action,Adventure,Sci-Fi",257,2012,5.8,41.0
+Rise of the Planet of the Apes,"Action,Drama,Sci-Fi",258,2011,7.6,68.0
+Lights Out,Horror,259,2016,6.4,58.0
+Norman: The Moderate Rise and Tragic Fall of a New York Fixer,"Drama,Thriller",260,2016,7.1,76.0
+Birdman or (The Unexpected Virtue of Ignorance),"Comedy,Drama,Romance",261,2014,7.8,88.0
+Black Swan,"Drama,Thriller",262,2010,8.0,79.0
+Dear White People,"Comedy,Drama",263,2014,6.2,79.0
+Nymphomaniac: Vol. I,Drama,264,2013,7.0,64.0
+Teenage Mutant Ninja Turtles: Out of the Shadows,"Action,Adventure,Comedy",265,2016,6.0,40.0
+Knock Knock,"Drama,Horror,Thriller",266,2015,4.9,53.0
+Dirty Grandpa,Comedy,267,2016,6.0,18.0
+Cloud Atlas,"Drama,Sci-Fi",268,2012,7.5,55.0
+X-Men Origins: Wolverine,"Action,Adventure,Sci-Fi",269,2009,6.7,40.0
+Satanic,Horror,270,2016,3.7,
+Skyfall,"Action,Adventure,Thriller",271,2012,7.8,81.0
+The Hobbit: An Unexpected Journey,"Adventure,Fantasy",272,2012,7.9,58.0
+21 Jump Street,"Action,Comedy,Crime",273,2012,7.2,69.0
+Sing Street,"Comedy,Drama,Music",274,2016,8.0,79.0
+Ballerina,"Animation,Adventure,Comedy",275,2016,6.8,
+Oblivion,"Action,Adventure,Mystery",276,2013,7.0,54.0
+22 Jump Street,"Action,Comedy,Crime",277,2014,7.1,71.0
+Zodiac,"Crime,Drama,History",278,2007,7.7,78.0
+Everybody Wants Some!!,Comedy,279,2016,7.0,83.0
+Iron Man Three,"Action,Adventure,Sci-Fi",280,2013,7.2,62.0
+Now You See Me,"Crime,Mystery,Thriller",281,2013,7.3,50.0
+Sherlock Holmes,"Action,Adventure,Crime",282,2009,7.6,57.0
+Death Proof,Thriller,283,2007,7.1,
+The Danish Girl,"Biography,Drama,Romance",284,2015,7.0,66.0
+Hercules,"Action,Adventure",285,2014,6.0,47.0
+Sucker Punch,"Action,Fantasy",286,2011,6.1,33.0
+Keeping Up with the Joneses,"Action,Comedy",287,2016,5.8,34.0
+Jupiter Ascending,"Action,Adventure,Sci-Fi",288,2015,5.3,40.0
+Masterminds,"Action,Comedy,Crime",289,2016,5.8,47.0
+Iris,Thriller,290,2016,6.1,
+Busanhaeng,"Action,Drama,Horror",291,2016,7.5,72.0
+Pitch Perfect,"Comedy,Music,Romance",292,2012,7.2,66.0
+Neighbors 2: Sorority Rising,Comedy,293,2016,5.7,58.0
+The Exception,Drama,294,2016,7.7,
+Man of Steel,"Action,Adventure,Fantasy",295,2013,7.1,55.0
+The Choice,"Drama,Romance",296,2016,6.6,26.0
+Ice Age: Collision Course,"Animation,Adventure,Comedy",297,2016,5.7,34.0
+The Devil Wears Prada,"Comedy,Drama",298,2006,6.8,62.0
+The Infiltrator,"Biography,Crime,Drama",299,2016,7.1,66.0
+There Will Be Blood,"Drama,History",300,2007,8.1,92.0
+The Equalizer,"Action,Crime,Thriller",301,2014,7.2,57.0
+Lone Survivor,"Action,Biography,Drama",302,2013,7.5,60.0
+The Cabin in the Woods,Horror,303,2012,7.0,72.0
+The House Bunny,"Comedy,Romance",304,2008,5.5,55.0
+She's Out of My League,"Comedy,Romance",305,2010,6.4,46.0
+Inherent Vice,"Comedy,Crime,Drama",306,2014,6.7,81.0
+Alice Through the Looking Glass,"Adventure,Family,Fantasy",307,2016,6.2,34.0
+Vincent N Roxxy,"Crime,Drama,Thriller",308,2016,5.5,
+The Fast and the Furious: Tokyo Drift,"Action,Crime,Thriller",309,2006,6.0,45.0
+How to Be Single,"Comedy,Romance",310,2016,6.1,51.0
+The Blind Side,"Biography,Drama,Sport",311,2009,7.7,53.0
+La vie d'Adèle,"Drama,Romance",312,2013,7.8,88.0
+The Babadook,"Drama,Horror",313,2014,6.8,86.0
+The Hobbit: The Battle of the Five Armies,"Adventure,Fantasy",314,2014,7.4,59.0
+Harry Potter and the Order of the Phoenix,"Adventure,Family,Fantasy",315,2007,7.5,71.0
+Snowpiercer,"Action,Drama,Sci-Fi",316,2013,7.0,84.0
+The 5th Wave,"Action,Adventure,Sci-Fi",317,2016,5.2,33.0
+The Stakelander,"Action,Horror",318,2016,5.3,
+The Visit,"Comedy,Horror,Thriller",319,2015,6.2,55.0
+Fast Five,"Action,Crime,Thriller",320,2011,7.3,66.0
+Step Up,"Crime,Drama,Music",321,2006,6.5,48.0
+Lovesong,Drama,322,2016,6.4,74.0
+RocknRolla,"Action,Crime,Thriller",323,2008,7.3,53.0
+In Time,"Action,Sci-Fi,Thriller",324,2011,6.7,53.0
+The Social Network,"Biography,Drama",325,2010,7.7,95.0
+The Last Witch Hunter,"Action,Adventure,Fantasy",326,2015,6.0,34.0
+Victor Frankenstein,"Drama,Horror,Sci-Fi",327,2015,6.0,36.0
+A Street Cat Named Bob,"Biography,Comedy,Drama",328,2016,7.4,54.0
+Green Room,"Crime,Horror,Thriller",329,2015,7.0,79.0
+Blackhat,"Crime,Drama,Mystery",330,2015,5.4,51.0
+Storks,"Animation,Adventure,Comedy",331,2016,6.9,56.0
+American Sniper,"Action,Biography,Drama",332,2014,7.3,72.0
+Dallas Buyers Club,"Biography,Drama",333,2013,8.0,84.0
+Lincoln,"Biography,Drama,History",334,2012,7.4,86.0
+Rush,"Action,Biography,Drama",335,2013,8.1,75.0
+Before I Wake,"Drama,Fantasy,Horror",336,2016,6.1,
+Silver Linings Playbook,"Comedy,Drama,Romance",337,2012,7.8,81.0
+Tracktown,"Drama,Sport",338,2016,5.9,64.0
+The Fault in Our Stars,"Drama,Romance",339,2014,7.8,69.0
+Blended,"Comedy,Romance",340,2014,6.5,31.0
+Fast & Furious,"Action,Crime,Thriller",341,2009,6.6,46.0
+Looper,"Action,Crime,Drama",342,2012,7.4,84.0
+White House Down,"Action,Drama,Thriller",343,2013,6.4,52.0
+Pete's Dragon,"Adventure,Family,Fantasy",344,2016,6.8,71.0
+Spider-Man 3,"Action,Adventure",345,2007,6.2,59.0
+The Three Musketeers,"Action,Adventure,Romance",346,2011,5.8,35.0
+Stardust,"Adventure,Family,Fantasy",347,2007,7.7,66.0
+American Hustle,"Crime,Drama",348,2013,7.3,90.0
+Jennifer's Body,"Comedy,Horror",349,2009,5.1,47.0
+Midnight in Paris,"Comedy,Fantasy,Romance",350,2011,7.7,81.0
+Lady Macbeth,Drama,351,2016,7.3,83.0
+Joy,Drama,352,2015,6.6,56.0
+The Dressmaker,"Comedy,Drama",353,2015,7.1,47.0
+Café Society,"Comedy,Drama,Romance",354,2016,6.7,64.0
+Insurgent,"Adventure,Sci-Fi,Thriller",355,2015,6.3,42.0
+Seventh Son,"Action,Adventure,Fantasy",356,2014,5.5,30.0
+Demain tout commence,"Comedy,Drama",357,2016,7.4,
+The Theory of Everything,"Biography,Drama,Romance",358,2014,7.7,72.0
+This Is the End,"Comedy,Fantasy",359,2013,6.6,67.0
+About Time,"Comedy,Drama,Fantasy",360,2013,7.8,55.0
+Step Brothers,Comedy,361,2008,6.9,51.0
+Clown,"Horror,Thriller",362,2014,5.7,42.0
+Star Trek Into Darkness,"Action,Adventure,Sci-Fi",363,2013,7.8,72.0
+Zombieland,"Adventure,Comedy,Horror",364,2009,7.7,73.0
+"Hail, Caesar!","Comedy,Mystery",365,2016,6.3,72.0
+Slumdog Millionaire,Drama,366,2008,8.0,86.0
+The Twilight Saga: Breaking Dawn - Part 2,"Adventure,Drama,Fantasy",367,2012,5.5,52.0
+American Wrestler: The Wizard,"Drama,Sport",368,2016,6.9,
+The Amazing Spider-Man,"Action,Adventure",369,2012,7.0,66.0
+Ben-Hur,"Action,Adventure,Drama",370,2016,5.7,38.0
+Sleight,"Action,Drama,Sci-Fi",371,2016,6.0,62.0
+The Maze Runner,"Action,Mystery,Sci-Fi",372,2014,6.8,57.0
+Criminal,"Action,Crime,Drama",373,2016,6.3,36.0
+Wanted,"Action,Crime,Fantasy",374,2008,6.7,64.0
+Florence Foster Jenkins,"Biography,Comedy,Drama",375,2016,6.9,71.0
+Collide,"Action,Crime,Thriller",376,2016,5.7,33.0
+Black Mass,"Biography,Crime,Drama",377,2015,6.9,68.0
+Creed,"Drama,Sport",378,2015,7.6,82.0
+Swiss Army Man,"Adventure,Comedy,Drama",379,2016,7.1,64.0
+The Expendables 3,"Action,Adventure,Thriller",380,2014,6.1,35.0
+What We Do in the Shadows,"Comedy,Fantasy,Horror",381,2014,7.6,76.0
+Southpaw,"Drama,Sport",382,2015,7.4,57.0
+Hush,"Horror,Thriller",383,2016,6.6,67.0
+Bridge of Spies,"Drama,History,Thriller",384,2015,7.6,81.0
+The Lego Movie,"Animation,Action,Adventure",385,2014,7.8,83.0
+Everest,"Action,Adventure,Drama",386,2015,7.1,64.0
+Pixels,"Action,Comedy,Family",387,2015,5.6,27.0
+Robin Hood,"Action,Adventure,Drama",388,2010,6.7,53.0
+The Wolverine,"Action,Adventure,Sci-Fi",389,2013,6.7,60.0
+John Carter,"Action,Adventure,Sci-Fi",390,2012,6.6,51.0
+Keanu,"Action,Comedy",391,2016,6.3,63.0
+The Gunman,"Action,Crime,Drama",392,2015,5.8,39.0
+Steve Jobs,"Biography,Drama",393,2015,7.2,82.0
+Whisky Galore,"Comedy,Romance",394,2016,5.0,43.0
+Grown Ups 2,Comedy,395,2013,5.4,19.0
+The Age of Adaline,"Drama,Fantasy,Romance",396,2015,7.2,51.0
+The Incredible Hulk,"Action,Adventure,Sci-Fi",397,2008,6.8,61.0
+Couples Retreat,Comedy,398,2009,5.5,23.0
+Absolutely Anything,"Comedy,Sci-Fi",399,2015,6.0,31.0
+Magic Mike,"Comedy,Drama",400,2012,6.1,72.0
+Minions,"Animation,Action,Adventure",401,2015,6.4,56.0
+The Black Room,Horror,402,2016,3.9,71.0
+Bronson,"Action,Biography,Crime",403,2008,7.1,
+Despicable Me,"Animation,Adventure,Comedy",404,2010,7.7,72.0
+The Best of Me,"Drama,Romance",405,2014,6.7,29.0
+The Invitation,"Drama,Mystery,Thriller",406,2015,6.7,74.0
+Zero Dark Thirty,"Drama,History,Thriller",407,2012,7.4,95.0
+Tangled,"Animation,Adventure,Comedy",408,2010,7.8,71.0
+The Hunger Games: Mockingjay - Part 2,"Action,Adventure,Sci-Fi",409,2015,6.6,65.0
+Vacation,"Adventure,Comedy",410,2015,6.1,34.0
+Taken,"Action,Thriller",411,2008,7.8,50.0
+Pitch Perfect 2,"Comedy,Music",412,2015,6.5,63.0
+Monsters University,"Animation,Adventure,Comedy",413,2013,7.3,65.0
+Elle,"Crime,Drama,Thriller",414,2016,7.2,89.0
+Mechanic: Resurrection,"Action,Adventure,Crime",415,2016,5.6,38.0
+Tusk,"Comedy,Drama,Horror",416,2014,5.4,55.0
+The Headhunter's Calling,Drama,417,2016,6.9,85.0
+Atonement,"Drama,Mystery,Romance",418,2007,7.8,
+Harry Potter and the Deathly Hallows: Part 1,"Adventure,Family,Fantasy",419,2010,7.7,65.0
+Shame,Drama,420,2011,7.2,72.0
+Hanna,"Action,Drama,Thriller",421,2011,6.8,65.0
+The Babysitters,Drama,422,2007,5.7,35.0
+Pride and Prejudice and Zombies,"Action,Horror,Romance",423,2016,5.8,45.0
+300: Rise of an Empire,"Action,Drama,Fantasy",424,2014,6.2,48.0
+London Has Fallen,"Action,Crime,Drama",425,2016,5.9,28.0
+The Curious Case of Benjamin Button,"Drama,Fantasy,Romance",426,2008,7.8,70.0
+Sin City: A Dame to Kill For,"Action,Crime,Thriller",427,2014,6.5,46.0
+The Bourne Ultimatum,"Action,Mystery,Thriller",428,2007,8.1,85.0
+Srpski film,"Horror,Mystery,Thriller",429,2010,5.2,55.0
+The Purge: Election Year,"Action,Horror,Sci-Fi",430,2016,6.0,
+3 Idiots,"Comedy,Drama",431,2009,8.4,67.0
+Zoolander 2,Comedy,432,2016,4.7,34.0
+World War Z,"Action,Adventure,Horror",433,2013,7.0,63.0
+Mission: Impossible - Ghost Protocol,"Action,Adventure,Thriller",434,2011,7.4,73.0
+Let Me Make You a Martyr,"Action,Crime,Drama",435,2016,6.4,56.0
+Filth,"Comedy,Crime,Drama",436,2013,7.1,
+The Longest Ride,"Drama,Romance",437,2015,7.1,33.0
+The imposible,"Drama,Thriller",438,2012,7.6,73.0
+Kick-Ass 2,"Action,Comedy,Crime",439,2013,6.6,41.0
+Folk Hero & Funny Guy,Comedy,440,2016,5.6,63.0
+Oz the Great and Powerful,"Adventure,Family,Fantasy",441,2013,6.3,44.0
+Brooklyn,"Drama,Romance",442,2015,7.5,87.0
+Coraline,"Animation,Family,Fantasy",443,2009,7.7,80.0
+Blue Valentine,"Drama,Romance",444,2010,7.4,81.0
+The Thinning,Thriller,445,2016,6.0,31.0
+Silent Hill,"Adventure,Horror,Mystery",446,2006,6.6,
+Dredd,"Action,Sci-Fi",447,2012,7.1,59.0
+Hunt for the Wilderpeople,"Adventure,Comedy,Drama",448,2016,7.9,81.0
+Big Hero 6,"Animation,Action,Adventure",449,2014,7.8,74.0
+Carrie,"Drama,Horror",450,2013,5.9,53.0
+Iron Man 2,"Action,Adventure,Sci-Fi",451,2010,7.0,57.0
+Demolition,"Comedy,Drama",452,2015,7.0,49.0
+Pandorum,"Action,Horror,Mystery",453,2009,6.8,28.0
+Olympus Has Fallen,"Action,Thriller",454,2013,6.5,41.0
+I Am Number Four,"Action,Adventure,Sci-Fi",455,2011,6.1,36.0
+Jagten,Drama,456,2012,8.3,76.0
+The Proposal,"Comedy,Drama,Romance",457,2009,6.7,48.0
+Get Hard,"Comedy,Crime",458,2015,6.0,34.0
+Just Go with It,"Comedy,Romance",459,2011,6.4,33.0
+Revolutionary Road,"Drama,Romance",460,2008,7.3,69.0
+The Town,"Crime,Drama,Thriller",461,2010,7.6,74.0
+The Boy,"Horror,Mystery,Thriller",462,2016,6.0,42.0
+Denial,"Biography,Drama",463,2016,6.6,63.0
+Predestination,"Drama,Mystery,Sci-Fi",464,2014,7.5,69.0
+Goosebumps,"Adventure,Comedy,Family",465,2015,6.3,60.0
+Sherlock Holmes: A Game of Shadows,"Action,Adventure,Crime",466,2011,7.5,48.0
+Salt,"Action,Crime,Mystery",467,2010,6.4,65.0
+Enemy,"Mystery,Thriller",468,2013,6.9,61.0
+District 9,"Action,Sci-Fi,Thriller",469,2009,8.0,81.0
+The Other Guys,"Action,Comedy,Crime",470,2010,6.7,64.0
+American Gangster,"Biography,Crime,Drama",471,2007,7.8,76.0
+Marie Antoinette,"Biography,Drama,History",472,2006,6.4,65.0
+2012,"Action,Adventure,Sci-Fi",473,2009,5.8,49.0
+Harry Potter and the Half-Blood Prince,"Adventure,Family,Fantasy",474,2009,7.5,78.0
+Argo,"Biography,Drama,History",475,2012,7.7,86.0
+Eddie the Eagle,"Biography,Comedy,Drama",476,2016,7.4,54.0
+The Lives of Others,"Drama,Thriller",477,2006,8.5,89.0
+Pet,"Horror,Thriller",478,2016,5.7,48.0
+Paint It Black,Drama,479,2016,8.3,71.0
+Macbeth,"Drama,War",480,2015,6.7,71.0
+Forgetting Sarah Marshall,"Comedy,Drama,Romance",481,2008,7.2,67.0
+The Giver,"Drama,Romance,Sci-Fi",482,2014,6.5,47.0
+Triple 9,"Action,Crime,Drama",483,2016,6.3,52.0
+Perfetti sconosciuti,"Comedy,Drama",484,2016,7.7,43.0
+Angry Birds,"Animation,Action,Adventure",485,2016,6.3,
+Moonrise Kingdom,"Adventure,Comedy,Drama",486,2012,7.8,84.0
+Hairspray,"Comedy,Drama,Family",487,2007,6.7,81.0
+Safe Haven,"Drama,Romance,Thriller",488,2013,6.7,34.0
+Focus,"Comedy,Crime,Drama",489,2015,6.6,56.0
+Ratatouille,"Animation,Comedy,Family",490,2007,8.0,96.0
+Stake Land,"Drama,Horror,Sci-Fi",491,2010,6.5,66.0
+The Book of Eli,"Action,Adventure,Drama",492,2010,6.9,53.0
+Cloverfield,"Action,Horror,Sci-Fi",493,2008,7.0,64.0
+Point Break,"Action,Crime,Sport",494,2015,5.3,34.0
+Under the Skin,"Drama,Horror,Sci-Fi",495,2013,6.3,78.0
+I Am Legend,"Drama,Horror,Sci-Fi",496,2007,7.2,65.0
+Men in Black 3,"Action,Adventure,Comedy",497,2012,6.8,58.0
+Super 8,"Mystery,Sci-Fi,Thriller",498,2011,7.1,72.0
+Law Abiding Citizen,"Crime,Drama,Thriller",499,2009,7.4,34.0
+Up,"Animation,Adventure,Comedy",500,2009,8.3,88.0
+Maze Runner: The Scorch Trials,"Action,Sci-Fi,Thriller",501,2015,6.3,43.0
+Carol,"Drama,Romance",502,2015,7.2,95.0
+Imperium,"Crime,Drama,Thriller",503,2016,6.5,68.0
+Youth,"Comedy,Drama,Music",504,2015,7.3,64.0
+Mr. Nobody,"Drama,Fantasy,Romance",505,2009,7.9,63.0
+City of Tiny Lights,"Crime,Drama,Thriller",506,2016,5.7,54.0
+Savages,"Crime,Drama,Thriller",507,2012,6.5,59.0
+(500) Days of Summer,"Comedy,Drama,Romance",508,2009,7.7,76.0
+Movie 43,"Comedy,Romance",509,2013,4.3,18.0
+Gravity,"Drama,Sci-Fi,Thriller",510,2013,7.8,96.0
+The Boy in the Striped Pyjamas,"Drama,War",511,2008,7.8,55.0
+Shooter,"Action,Crime,Drama",512,2007,7.2,53.0
+The Happening,"Sci-Fi,Thriller",513,2008,5.0,34.0
+Bone Tomahawk,"Adventure,Drama,Horror",514,2015,7.1,72.0
+Magic Mike XXL,"Comedy,Drama,Music",515,2015,5.7,60.0
+Easy A,"Comedy,Drama,Romance",516,2010,7.1,72.0
+Exodus: Gods and Kings,"Action,Adventure,Drama",517,2014,6.0,52.0
+Chappie,"Action,Crime,Drama",518,2015,6.9,41.0
+The Hobbit: The Desolation of Smaug,"Adventure,Fantasy",519,2013,7.9,66.0
+Half of a Yellow Sun,"Drama,Romance",520,2013,6.2,51.0
+Anthropoid,"Biography,History,Thriller",521,2016,7.2,59.0
+The Counselor,"Crime,Drama,Thriller",522,2013,5.3,48.0
+Viking,"Action,Drama,History",523,2016,4.7,57.0
+Whiskey Tango Foxtrot,"Biography,Comedy,Drama",524,2016,6.6,
+Trust,"Crime,Drama,Thriller",525,2010,7.0,60.0
+Birth of the Dragon,"Action,Biography,Drama",526,2016,3.9,61.0
+Elysium,"Action,Drama,Sci-Fi",527,2013,6.6,
+The Green Inferno,"Adventure,Horror",528,2013,5.4,38.0
+Godzilla,"Action,Adventure,Sci-Fi",529,2014,6.4,62.0
+The Bourne Legacy,"Action,Adventure,Mystery",530,2012,6.7,61.0
+A Good Year,"Comedy,Drama,Romance",531,2006,6.9,47.0
+Friend Request,"Horror,Thriller",532,2016,5.4,59.0
+Deja Vu,"Action,Sci-Fi,Thriller",533,2006,7.0,
+Lucy,"Action,Sci-Fi,Thriller",534,2014,6.4,61.0
+A Quiet Passion,"Biography,Drama",535,2016,7.2,77.0
+Need for Speed,"Action,Crime,Drama",536,2014,6.5,39.0
+Jack Reacher,"Action,Crime,Mystery",537,2012,7.0,50.0
+The Do-Over,"Action,Adventure,Comedy",538,2016,5.7,22.0
+True Crimes,"Crime,Drama,Thriller",539,2016,7.3,43.0
+American Pastoral,"Crime,Drama",540,2016,6.1,
+The Ghost Writer,"Mystery,Thriller",541,2010,7.2,77.0
+Limitless,"Mystery,Sci-Fi,Thriller",542,2011,7.4,59.0
+Spectral,"Action,Mystery,Sci-Fi",543,2016,6.3,39.0
+P.S. I Love You,"Drama,Romance",544,2007,7.1,
+Zipper,"Drama,Thriller",545,2015,5.7,39.0
+Midnight Special,"Drama,Mystery,Sci-Fi",546,2016,6.7,76.0
+Don't Think Twice,"Comedy,Drama",547,2016,6.8,83.0
+Alice in Wonderland,"Adventure,Family,Fantasy",548,2010,6.5,53.0
+Chuck,"Biography,Drama,Sport",549,2016,6.8,68.0
+"I, Daniel Blake",Drama,550,2016,7.9,77.0
+The Break-Up,"Comedy,Drama,Romance",551,2006,5.8,45.0
+Loving,"Biography,Drama,Romance",552,2016,7.1,79.0
+Fantastic Four,"Action,Adventure,Sci-Fi",553,2015,4.3,27.0
+The Survivalist,"Drama,Sci-Fi,Thriller",554,2015,6.3,80.0
+Colonia,"Drama,Romance,Thriller",555,2015,7.1,33.0
+The Boy Next Door,"Mystery,Thriller",556,2015,4.6,30.0
+The Gift,"Mystery,Thriller",557,2015,7.1,77.0
+Dracula Untold,"Action,Drama,Fantasy",558,2014,6.3,40.0
+In the Heart of the Sea,"Action,Adventure,Biography",559,2015,6.9,47.0
+Idiocracy,"Adventure,Comedy,Sci-Fi",560,2006,6.6,66.0
+The Expendables,"Action,Adventure,Thriller",561,2010,6.5,45.0
+Evil Dead,"Fantasy,Horror",562,2013,6.5,57.0
+Sinister,"Horror,Mystery",563,2012,6.8,53.0
+Wreck-It Ralph,"Animation,Adventure,Comedy",564,2012,7.8,72.0
+Snow White and the Huntsman,"Action,Adventure,Drama",565,2012,6.1,57.0
+Pan,"Adventure,Family,Fantasy",566,2015,5.8,36.0
+Transformers: Dark of the Moon,"Action,Adventure,Sci-Fi",567,2011,6.3,42.0
+Juno,"Comedy,Drama",568,2007,7.5,81.0
+A Hologram for the King,"Comedy,Drama",569,2016,6.1,58.0
+Money Monster,"Crime,Drama,Thriller",570,2016,6.5,55.0
+The Other Woman,"Comedy,Romance",571,2014,6.0,39.0
+Enchanted,"Animation,Comedy,Family",572,2007,7.1,75.0
+The Intern,"Comedy,Drama",573,2015,7.1,51.0
+Little Miss Sunshine,"Comedy,Drama",574,2006,7.8,80.0
+Bleed for This,"Biography,Drama,Sport",575,2016,6.8,62.0
+Clash of the Titans,"Action,Adventure,Fantasy",576,2010,5.8,39.0
+The Finest Hours,"Action,Drama,History",577,2016,6.8,58.0
+Tron,"Action,Adventure,Sci-Fi",578,2010,6.8,49.0
+The Hunger Games: Catching Fire,"Action,Adventure,Mystery",579,2013,7.6,76.0
+All Good Things,"Crime,Drama,Mystery",580,2010,6.3,57.0
+Kickboxer: Vengeance,Action,581,2016,4.9,37.0
+The Last Airbender,"Action,Adventure,Family",582,2010,4.2,20.0
+Sex Tape,"Comedy,Romance",583,2014,5.1,36.0
+What to Expect When You're Expecting,"Comedy,Drama,Romance",584,2012,5.7,41.0
+Moneyball,"Biography,Drama,Sport",585,2011,7.6,87.0
+Ghost Rider,"Action,Fantasy,Thriller",586,2007,5.2,35.0
+Unbroken,"Biography,Drama,Sport",587,2014,7.2,59.0
+Immortals,"Action,Drama,Fantasy",588,2011,6.0,46.0
+Sunshine,"Adventure,Sci-Fi,Thriller",589,2007,7.3,64.0
+Brave,"Animation,Adventure,Comedy",590,2012,7.2,69.0
+Män som hatar kvinnor,"Drama,Mystery,Thriller",591,2009,7.8,76.0
+Adoration,"Drama,Romance",592,2013,6.2,37.0
+The Drop,"Crime,Drama,Mystery",593,2014,7.1,69.0
+She's the Man,"Comedy,Romance,Sport",594,2006,6.4,45.0
+Daddy's Home,"Comedy,Family",595,2015,6.1,42.0
+Let Me In,"Drama,Horror,Mystery",596,2010,7.2,79.0
+Never Back Down,"Action,Drama,Sport",597,2008,6.6,39.0
+Grimsby,"Action,Adventure,Comedy",598,2016,6.2,44.0
+Moon,"Drama,Mystery,Sci-Fi",599,2009,7.9,67.0
+Megamind,"Animation,Action,Comedy",600,2010,7.3,63.0
+Gangster Squad,"Action,Crime,Drama",601,2013,6.7,40.0
+Blood Father,"Action,Crime,Drama",602,2016,6.4,66.0
+He's Just Not That Into You,"Comedy,Drama,Romance",603,2009,6.4,47.0
+Kung Fu Panda 3,"Animation,Action,Adventure",604,2016,7.2,66.0
+The Rise of the Krays,"Crime,Drama",605,2015,5.1,90.0
+Handsome Devil,Drama,606,2016,7.4,
+Winter's Bone,Drama,607,2010,7.2,
+Horrible Bosses,"Comedy,Crime",608,2011,6.9,57.0
+Mommy,Drama,609,2014,8.1,74.0
+Hellboy II: The Golden Army,"Action,Adventure,Fantasy",610,2008,7.0,78.0
+Beautiful Creatures,"Drama,Fantasy,Romance",611,2013,6.2,52.0
+Toni Erdmann,"Comedy,Drama",612,2016,7.6,93.0
+The Lovely Bones,"Drama,Fantasy,Thriller",613,2009,6.7,42.0
+The Assassination of Jesse James by the Coward Robert Ford,"Biography,Crime,Drama",614,2007,7.5,68.0
+Don Jon,"Comedy,Drama,Romance",615,2013,6.6,66.0
+Bastille Day,"Action,Crime,Drama",616,2016,6.3,48.0
+2307: Winter's Dream,Sci-Fi,617,2016,4.0,53.0
+Free State of Jones,"Action,Biography,Drama",618,2016,6.9,
+Mr. Right,"Action,Comedy,Romance",619,2015,6.3,52.0
+The Secret Life of Walter Mitty,"Adventure,Comedy,Drama",620,2013,7.3,54.0
+Dope,"Comedy,Crime,Drama",621,2015,7.3,72.0
+Underworld Awakening,"Action,Fantasy,Horror",622,2012,6.4,39.0
+Antichrist,"Drama,Horror",623,2009,6.6,49.0
+Friday the 13th,Horror,624,2009,5.6,34.0
+Taken 3,"Action,Thriller",625,2014,6.0,26.0
+Total Recall,"Action,Adventure,Mystery",626,2012,6.3,43.0
+X-Men: The Last Stand,"Action,Adventure,Fantasy",627,2006,6.7,58.0
+The Escort,"Comedy,Drama,Romance",628,2016,6.0,46.0
+The Whole Truth,"Crime,Drama,Mystery",629,2016,6.1,
+Night at the Museum: Secret of the Tomb,"Adventure,Comedy,Family",630,2014,6.2,47.0
+Love & Other Drugs,"Comedy,Drama,Romance",631,2010,6.7,55.0
+The Interview,Comedy,632,2014,6.6,52.0
+The Host,"Comedy,Drama,Horror",633,2006,7.0,85.0
+Megan Is Missing,"Drama,Horror,Thriller",634,2011,4.9,94.0
+WALL·E,"Animation,Adventure,Family",635,2008,8.4,
+Knocked Up,"Comedy,Romance",636,2007,7.0,85.0
+Source Code,"Mystery,Romance,Sci-Fi",637,2011,7.5,74.0
+Lawless,"Crime,Drama",638,2012,7.3,58.0
+Unfriended,"Drama,Horror,Mystery",639,2014,5.6,59.0
+American Reunion,Comedy,640,2012,6.7,49.0
+The Pursuit of Happyness,"Biography,Drama",641,2006,8.0,64.0
+Relatos salvajes,"Comedy,Drama,Thriller",642,2014,8.1,77.0
+The Ridiculous 6,"Comedy,Western",643,2015,4.8,18.0
+Frantz,"Drama,History,War",644,2016,7.5,73.0
+Viral,"Drama,Horror,Sci-Fi",645,2016,5.5,72.0
+Gran Torino,Drama,646,2008,8.2,
+Burnt,"Comedy,Drama",647,2015,6.6,42.0
+Tall Men,"Fantasy,Horror,Thriller",648,2016,3.2,57.0
+Sleeping Beauty,"Drama,Romance",649,2011,5.3,
+Vampire Academy,"Action,Comedy,Fantasy",650,2014,5.6,30.0
+Sweeney Todd: The Demon Barber of Fleet Street,"Drama,Horror,Musical",651,2007,7.4,83.0
+Solace,"Crime,Drama,Mystery",652,2015,6.4,36.0
+Insidious,"Horror,Mystery,Thriller",653,2010,6.8,52.0
+Popstar: Never Stop Never Stopping,"Comedy,Music",654,2016,6.7,68.0
+The Levelling,Drama,655,2016,6.4,82.0
+Public Enemies,"Biography,Crime,Drama",656,2009,7.0,70.0
+Boyhood,Drama,657,2014,7.9,100.0
+Teenage Mutant Ninja Turtles,"Action,Adventure,Comedy",658,2014,5.9,31.0
+Eastern Promises,"Crime,Drama,Mystery",659,2007,7.7,82.0
+The Daughter,Drama,660,2015,6.7,62.0
+Pineapple Express,"Action,Comedy,Crime",661,2008,7.0,64.0
+The First Time,"Comedy,Drama,Romance",662,2012,6.9,55.0
+Gone Baby Gone,"Crime,Drama,Mystery",663,2007,7.7,72.0
+The Heat,"Action,Comedy,Crime",664,2013,6.6,60.0
+L'avenir,Drama,665,2016,7.1,88.0
+Anna Karenina,"Drama,Romance",666,2012,6.6,63.0
+Regression,"Crime,Drama,Mystery",667,2015,5.7,32.0
+Ted 2,"Adventure,Comedy,Romance",668,2015,6.3,48.0
+Pain & Gain,"Comedy,Crime,Drama",669,2013,6.5,45.0
+Blood Diamond,"Adventure,Drama,Thriller",670,2006,8.0,64.0
+Devil's Knot,"Biography,Crime,Drama",671,2013,6.1,42.0
+Child 44,"Crime,Drama,Thriller",672,2015,6.5,41.0
+The Hurt Locker,"Drama,History,Thriller",673,2008,7.6,94.0
+Green Lantern,"Action,Adventure,Sci-Fi",674,2011,5.6,39.0
+War on Everyone,"Action,Comedy",675,2016,5.9,50.0
+The Mist,Horror,676,2007,7.2,58.0
+Escape Plan,"Action,Crime,Mystery",677,2013,6.7,49.0
+"Love, Rosie","Comedy,Romance",678,2014,7.2,44.0
+The DUFF,Comedy,679,2015,6.5,56.0
+The Age of Shadows,"Action,Drama,Thriller",680,2016,7.2,78.0
+The Hunger Games: Mockingjay - Part 1,"Action,Adventure,Sci-Fi",681,2014,6.7,64.0
+We Need to Talk About Kevin,"Drama,Mystery,Thriller",682,2011,7.5,68.0
+Love & Friendship,"Comedy,Drama,Romance",683,2016,6.5,87.0
+The Mortal Instruments: City of Bones,"Action,Fantasy,Horror",684,2013,5.9,33.0
+Seven Pounds,"Drama,Romance",685,2008,7.7,36.0
+The King's Speech,"Biography,Drama",686,2010,8.0,88.0
+Hunger,"Biography,Drama",687,2008,7.6,82.0
+Jumper,"Action,Adventure,Sci-Fi",688,2008,6.1,35.0
+Toy Story 3,"Animation,Adventure,Comedy",689,2010,8.3,92.0
+Tinker Tailor Soldier Spy,"Drama,Mystery,Thriller",690,2011,7.1,85.0
+Resident Evil: Retribution,"Action,Horror,Sci-Fi",691,2012,5.4,39.0
+Dear Zindagi,"Drama,Romance",692,2016,7.8,56.0
+Genius,"Biography,Drama",693,2016,6.5,
+Pompeii,"Action,Adventure,Drama",694,2014,5.5,39.0
+Life of Pi,"Adventure,Drama,Fantasy",695,2012,7.9,79.0
+Hachi: A Dog's Tale,"Drama,Family",696,2009,8.1,61.0
+10 Years,"Comedy,Drama,Romance",697,2011,6.1,
+I Origins,"Drama,Romance,Sci-Fi",698,2014,7.3,57.0
+Live Free or Die Hard,"Action,Adventure,Thriller",699,2007,7.2,69.0
+The Matchbreaker,"Comedy,Romance",700,2016,5.5,44.0
+Funny Games,"Crime,Drama,Horror",701,2007,6.5,
+Ted,"Comedy,Fantasy",702,2012,7.0,62.0
+RED,"Action,Comedy,Crime",703,2010,7.1,60.0
+Australia,"Adventure,Drama,Romance",704,2008,6.6,53.0
+Faster,"Action,Crime,Drama",705,2010,6.5,44.0
+The Neighbor,"Crime,Horror,Thriller",706,2016,5.8,60.0
+The Adjustment Bureau,"Romance,Sci-Fi,Thriller",707,2011,7.1,
+The Hollars,"Comedy,Drama,Romance",708,2016,6.5,53.0
+The Judge,"Crime,Drama",709,2014,7.4,48.0
+Closed Circuit,"Crime,Drama,Mystery",710,2013,6.2,50.0
+Transformers: Revenge of the Fallen,"Action,Adventure,Sci-Fi",711,2009,6.0,35.0
+La tortue rouge,"Animation,Fantasy",712,2016,7.6,86.0
+The Book of Life,"Animation,Adventure,Comedy",713,2014,7.3,67.0
+Incendies,"Drama,Mystery,War",714,2010,8.2,80.0
+The Heartbreak Kid,"Comedy,Romance",715,2007,5.8,46.0
+Happy Feet,"Animation,Comedy,Family",716,2006,6.5,77.0
+Entourage,Comedy,717,2015,6.6,38.0
+The Strangers,"Horror,Mystery,Thriller",718,2008,6.2,47.0
+Noah,"Action,Adventure,Drama",719,2014,5.8,68.0
+Neighbors,Comedy,720,2014,6.4,68.0
+Nymphomaniac: Vol. II,Drama,721,2013,6.7,60.0
+Wild,"Adventure,Biography,Drama",722,2014,7.1,76.0
+Grown Ups,Comedy,723,2010,6.0,30.0
+Blair Witch,"Horror,Thriller",724,2016,5.1,47.0
+The Karate Kid,"Action,Drama,Family",725,2010,6.2,61.0
+Dark Shadows,"Comedy,Fantasy,Horror",726,2012,6.2,55.0
+Friends with Benefits,"Comedy,Romance",727,2011,6.6,63.0
+The Illusionist,"Drama,Mystery,Romance",728,2006,7.6,68.0
+The A-Team,"Action,Adventure,Comedy",729,2010,6.8,47.0
+The Guest,Thriller,730,2014,6.7,76.0
+The Internship,Comedy,731,2013,6.3,42.0
+Paul,"Adventure,Comedy,Sci-Fi",732,2011,7.0,57.0
+This Beautiful Fantastic,"Comedy,Drama,Fantasy",733,2016,6.9,51.0
+The Da Vinci Code,"Mystery,Thriller",734,2006,6.6,46.0
+Mr. Church,"Comedy,Drama",735,2016,7.7,37.0
+Hugo,"Adventure,Drama,Family",736,2011,7.5,83.0
+The Blackcoat's Daughter,"Horror,Thriller",737,2015,5.6,68.0
+Body of Lies,"Action,Drama,Romance",738,2008,7.1,57.0
+Knight of Cups,"Drama,Romance",739,2015,5.7,53.0
+The Mummy: Tomb of the Dragon Emperor,"Action,Adventure,Fantasy",740,2008,5.2,31.0
+The Boss,Comedy,741,2016,5.4,40.0
+Hands of Stone,"Action,Biography,Drama",742,2016,6.6,54.0
+El secreto de sus ojos,"Drama,Mystery,Romance",743,2009,8.2,80.0
+True Grit,"Adventure,Drama,Western",744,2010,7.6,80.0
+We Are Your Friends,"Drama,Music,Romance",745,2015,6.2,46.0
+A Million Ways to Die in the West,"Comedy,Romance,Western",746,2014,6.1,44.0
+Only for One Night,Thriller,747,2016,4.6,60.0
+Rules Don't Apply,"Comedy,Drama,Romance",748,2016,5.7,
+Ouija: Origin of Evil,"Horror,Thriller",749,2016,6.1,65.0
+Percy Jackson: Sea of Monsters,"Adventure,Family,Fantasy",750,2013,5.9,39.0
+Fracture,"Crime,Drama,Mystery",751,2007,7.2,68.0
+Oculus,"Horror,Mystery",752,2013,6.5,61.0
+In Bruges,"Comedy,Crime,Drama",753,2008,7.9,67.0
+This Means War,"Action,Comedy,Romance",754,2012,6.3,31.0
+Lída Baarová,"Biography,Drama,History",755,2016,5.0,64.0
+The Road,"Adventure,Drama",756,2009,7.3,
+Lavender,"Drama,Thriller",757,2016,5.2,46.0
+Deuces,Drama,758,2016,6.6,36.0
+Conan the Barbarian,"Action,Adventure,Fantasy",759,2011,5.2,
+The Fighter,"Action,Biography,Drama",760,2010,7.8,79.0
+August Rush,"Drama,Music",761,2007,7.5,38.0
+Chef,"Comedy,Drama",762,2014,7.3,68.0
+Eye in the Sky,"Drama,Thriller,War",763,2015,7.3,73.0
+Eagle Eye,"Action,Mystery,Thriller",764,2008,6.6,43.0
+The Purge,"Horror,Sci-Fi,Thriller",765,2013,5.7,41.0
+PK,"Comedy,Drama,Romance",766,2014,8.2,51.0
+Ender's Game,"Action,Sci-Fi",767,2013,6.7,
+Indiana Jones and the Kingdom of the Crystal Skull,"Action,Adventure,Fantasy",768,2008,6.2,65.0
+Paper Towns,"Drama,Mystery,Romance",769,2015,6.3,56.0
+High-Rise,Drama,770,2015,5.7,65.0
+Quantum of Solace,"Action,Adventure,Thriller",771,2008,6.6,58.0
+The Assignment,"Action,Crime,Thriller",772,2016,4.5,34.0
+How to Train Your Dragon,"Animation,Action,Adventure",773,2010,8.1,74.0
+Lady in the Water,"Drama,Fantasy,Mystery",774,2006,5.6,36.0
+The Fountain,"Drama,Sci-Fi",775,2006,7.3,51.0
+Cars 2,"Animation,Adventure,Comedy",776,2011,6.2,57.0
+31,"Horror,Thriller",777,2016,5.1,35.0
+Final Girl,"Action,Thriller",778,2015,4.7,56.0
+Chalk It Up,Comedy,779,2016,4.8,
+The Man Who Knew Infinity,"Biography,Drama",780,2015,7.2,
+Unknown,"Action,Mystery,Thriller",781,2011,6.9,56.0
+Self/less,"Action,Mystery,Sci-Fi",782,2015,6.5,34.0
+Mr. Brooks,"Crime,Drama,Thriller",783,2007,7.3,45.0
+Tramps,"Comedy,Romance",784,2016,6.5,77.0
+Before We Go,"Comedy,Drama,Romance",785,2014,6.9,31.0
+Captain Phillips,"Biography,Drama,Thriller",786,2013,7.8,83.0
+The Secret Scripture,Drama,787,2016,6.8,37.0
+Max Steel,"Action,Adventure,Family",788,2016,4.6,22.0
+Hotel Transylvania 2,"Animation,Comedy,Family",789,2015,6.7,44.0
+Hancock,"Action,Crime,Drama",790,2008,6.4,49.0
+Sisters,Comedy,791,2015,6.0,58.0
+The Family,"Comedy,Crime,Thriller",792,2013,6.3,42.0
+Zack and Miri Make a Porno,"Comedy,Romance",793,2008,6.6,56.0
+Ma vie de Courgette,"Animation,Comedy,Drama",794,2016,7.8,85.0
+Man on a Ledge,"Action,Crime,Thriller",795,2012,6.6,40.0
+No Strings Attached,"Comedy,Romance",796,2011,6.2,50.0
+Rescue Dawn,"Adventure,Biography,Drama",797,2006,7.3,77.0
+Despicable Me 2,"Animation,Adventure,Comedy",798,2013,7.4,62.0
+A Walk Among the Tombstones,"Crime,Drama,Mystery",799,2014,6.5,57.0
+The World's End,"Action,Comedy,Sci-Fi",800,2013,7.0,81.0
+Yoga Hosers,"Comedy,Fantasy,Horror",801,2016,4.3,23.0
+Seven Psychopaths,"Comedy,Crime",802,2012,7.2,66.0
+Beowulf,"Animation,Action,Adventure",803,2007,6.2,59.0
+Jack Ryan: Shadow Recruit,"Action,Drama,Thriller",804,2014,6.2,57.0
+1408,"Fantasy,Horror",805,2007,6.8,64.0
+The Gambler,"Crime,Drama,Thriller",806,2014,6.0,55.0
+Prince of Persia: The Sands of Time,"Action,Adventure,Fantasy",807,2010,6.6,50.0
+The Spectacular Now,"Comedy,Drama,Romance",808,2013,7.1,82.0
+A United Kingdom,"Biography,Drama,Romance",809,2016,6.8,65.0
+USS Indianapolis: Men of Courage,"Action,Drama,History",810,2016,5.2,30.0
+Turbo Kid,"Action,Adventure,Comedy",811,2015,6.7,60.0
+Mama,"Horror,Thriller",812,2013,6.2,57.0
+Orphan,"Horror,Mystery,Thriller",813,2009,7.0,42.0
+To Rome with Love,"Comedy,Romance",814,2012,6.3,54.0
+Fantastic Mr. Fox,"Animation,Adventure,Comedy",815,2009,7.8,83.0
+Inside Man,"Crime,Drama,Mystery",816,2006,7.6,76.0
+I.T.,"Crime,Drama,Mystery",817,2016,5.4,27.0
+127 Hours,"Adventure,Biography,Drama",818,2010,7.6,82.0
+Annabelle,"Horror,Mystery,Thriller",819,2014,5.4,37.0
+Wolves at the Door,"Horror,Thriller",820,2016,4.6,63.0
+Suite Française,"Drama,Romance,War",821,2014,6.9,
+The Imaginarium of Doctor Parnassus,"Adventure,Fantasy,Mystery",822,2009,6.8,65.0
+G.I. Joe: The Rise of Cobra,"Action,Adventure,Sci-Fi",823,2009,5.8,32.0
+Christine,"Biography,Drama",824,2016,7.0,72.0
+Man Down,"Drama,Thriller",825,2015,5.8,27.0
+Crawlspace,"Horror,Thriller",826,2016,5.3,25.0
+Shut In,"Drama,Horror,Thriller",827,2016,4.6,
+The Warriors Gate,"Action,Adventure,Fantasy",828,2016,5.3,77.0
+Grindhouse,"Action,Horror,Thriller",829,2007,7.6,
+Disaster Movie,Comedy,830,2008,1.9,15.0
+Rocky Balboa,"Drama,Sport",831,2006,7.2,63.0
+Diary of a Wimpy Kid: Dog Days,"Comedy,Family",832,2012,6.4,54.0
+Jane Eyre,"Drama,Romance",833,2011,7.4,76.0
+Fool's Gold,"Action,Adventure,Comedy",834,2008,5.7,29.0
+The Dictator,Comedy,835,2012,6.4,58.0
+The Loft,"Mystery,Romance,Thriller",836,2014,6.3,24.0
+Bacalaureat,"Crime,Drama",837,2016,7.5,84.0
+You Don't Mess with the Zohan,"Action,Comedy",838,2008,5.5,54.0
+Exposed,"Crime,Drama,Mystery",839,2016,4.2,23.0
+Maudie,"Biography,Drama,Romance",840,2016,7.8,60.0
+Horrible Bosses 2,"Comedy,Crime",841,2014,6.3,40.0
+A Bigger Splash,"Drama,Thriller",842,2015,6.4,74.0
+Melancholia,Drama,843,2011,7.1,80.0
+The Princess and the Frog,"Animation,Adventure,Comedy",844,2009,7.1,73.0
+Unstoppable,"Action,Thriller",845,2010,6.8,69.0
+Flight,"Drama,Thriller",846,2012,7.3,76.0
+Home,"Animation,Adventure,Comedy",847,2015,6.7,55.0
+La migliore offerta,"Crime,Drama,Mystery",848,2013,7.8,49.0
+Mean Dreams,Thriller,849,2016,6.3,64.0
+42,"Biography,Drama,Sport",850,2013,7.5,62.0
+21,"Crime,Drama,Thriller",851,2008,6.8,48.0
+Begin Again,"Drama,Music",852,2013,7.4,62.0
+Out of the Furnace,"Crime,Drama,Thriller",853,2013,6.8,63.0
+Vicky Cristina Barcelona,"Drama,Romance",854,2008,7.1,70.0
+Kung Fu Panda,"Animation,Action,Adventure",855,2008,7.6,73.0
+Barbershop: The Next Cut,"Comedy,Drama",856,2016,5.9,67.0
+Terminator Salvation,"Action,Adventure,Drama",857,2009,6.6,49.0
+Freedom Writers,"Biography,Crime,Drama",858,2007,7.5,64.0
+The Hills Have Eyes,Horror,859,2006,6.4,52.0
+Changeling,"Biography,Drama,Mystery",860,2008,7.8,63.0
+Remember Me,"Drama,Romance",861,2010,7.2,40.0
+Koe no katachi,"Animation,Drama,Romance",862,2016,8.4,80.0
+"Alexander and the Terrible, Horrible, No Good, Very Bad Day","Comedy,Family",863,2014,6.2,54.0
+Locke,Drama,864,2013,7.1,81.0
+The 9th Life of Louis Drax,"Mystery,Thriller",865,2016,6.3,41.0
+Horns,"Drama,Fantasy,Horror",866,2013,6.5,46.0
+Indignation,"Drama,Romance",867,2016,6.9,78.0
+The Stanford Prison Experiment,"Biography,Drama,History",868,2015,6.9,67.0
+Diary of a Wimpy Kid: Rodrick Rules,"Comedy,Family",869,2011,6.6,51.0
+Mission: Impossible III,"Action,Adventure,Thriller",870,2006,6.9,66.0
+En man som heter Ove,"Comedy,Drama",871,2015,7.7,70.0
+Dragonball Evolution,"Action,Adventure,Fantasy",872,2009,2.7,45.0
+Red Dawn,"Action,Thriller",873,2012,5.4,31.0
+One Day,"Drama,Romance",874,2011,7.0,48.0
+Life as We Know It,"Comedy,Drama,Romance",875,2010,6.6,39.0
+28 Weeks Later,"Drama,Horror,Sci-Fi",876,2007,7.0,78.0
+Warm Bodies,"Comedy,Horror,Romance",877,2013,6.9,59.0
+Blue Jasmine,Drama,878,2013,7.3,78.0
+G.I. Joe: Retaliation,"Action,Adventure,Sci-Fi",879,2013,5.8,41.0
+Wrath of the Titans,"Action,Adventure,Fantasy",880,2012,5.8,37.0
+Shin Gojira,"Action,Adventure,Drama",881,2016,6.9,68.0
+Saving Mr. Banks,"Biography,Comedy,Drama",882,2013,7.5,65.0
+Transcendence,"Drama,Mystery,Romance",883,2014,6.3,42.0
+Rio,"Animation,Adventure,Comedy",884,2011,6.9,63.0
+Equals,"Drama,Romance,Sci-Fi",885,2015,6.1,43.0
+Babel,Drama,886,2006,7.5,69.0
+The Tree of Life,"Drama,Fantasy",887,2011,6.8,85.0
+The Lucky One,"Drama,Romance",888,2012,6.5,39.0
+Piranha 3D,"Comedy,Horror,Thriller",889,2010,5.5,53.0
+50/50,"Comedy,Drama,Romance",890,2011,7.7,72.0
+The Intent,"Crime,Drama",891,2016,3.5,59.0
+This Is 40,"Comedy,Romance",892,2012,6.2,
+Real Steel,"Action,Drama,Family",893,2011,7.1,56.0
+Sex and the City,"Comedy,Drama,Romance",894,2008,5.5,53.0
+Rambo,"Action,Thriller,War",895,2008,7.1,46.0
+Planet Terror,"Action,Comedy,Horror",896,2007,7.1,55.0
+Concussion,"Biography,Drama,Sport",897,2015,7.1,
+The Fall,"Adventure,Comedy,Drama",898,2006,7.9,64.0
+The Ugly Truth,"Comedy,Romance",899,2009,6.5,28.0
+Bride Wars,"Comedy,Romance",900,2009,5.5,24.0
+Sleeping with Other People,"Comedy,Drama,Romance",901,2015,6.5,64.0
+Snakes on a Plane,"Action,Adventure,Crime",902,2006,5.6,58.0
+What If,"Comedy,Romance",903,2013,6.8,59.0
+How to Train Your Dragon 2,"Animation,Action,Adventure",904,2014,7.9,76.0
+RoboCop,"Action,Crime,Sci-Fi",905,2014,6.2,52.0
+In Dubious Battle,Drama,906,2016,6.2,43.0
+"Hello, My Name Is Doris","Comedy,Drama,Romance",907,2015,6.7,63.0
+Ocean's Thirteen,"Crime,Thriller",908,2007,6.9,62.0
+Slither,"Comedy,Horror,Sci-Fi",909,2006,6.5,69.0
+Contagion,"Drama,Thriller",910,2011,6.6,70.0
+Il racconto dei racconti - Tale of Tales,"Drama,Fantasy,Horror",911,2015,6.4,72.0
+I Am the Pretty Thing That Lives in the House,Thriller,912,2016,4.7,68.0
+Bridge to Terabithia,"Adventure,Drama,Family",913,2007,7.2,74.0
+Coherence,"Mystery,Sci-Fi,Thriller",914,2013,7.2,65.0
+Notorious,"Biography,Crime,Drama",915,2009,6.7,60.0
+Goksung,"Drama,Fantasy,Horror",916,2016,7.5,81.0
+The Expendables 2,"Action,Adventure,Thriller",917,2012,6.6,51.0
+The Girl Next Door,"Crime,Drama,Horror",918,2007,6.7,29.0
+Perfume: The Story of a Murderer,"Crime,Drama,Fantasy",919,2006,7.5,56.0
+The Golden Compass,"Adventure,Family,Fantasy",920,2007,6.1,51.0
+Centurion,"Action,Adventure,Drama",921,2010,6.4,62.0
+Scouts Guide to the Zombie Apocalypse,"Action,Comedy,Horror",922,2015,6.3,32.0
+17 Again,"Comedy,Drama,Family",923,2009,6.4,48.0
+No Escape,"Action,Thriller",924,2015,6.8,38.0
+Superman Returns,"Action,Adventure,Sci-Fi",925,2006,6.1,72.0
+The Twilight Saga: Breaking Dawn - Part 1,"Adventure,Drama,Fantasy",926,2011,4.9,45.0
+Precious,Drama,927,2009,7.3,79.0
+The Sea of Trees,Drama,928,2015,5.9,23.0
+Good Kids,Comedy,929,2016,6.1,86.0
+The Master,Drama,930,2012,7.1,
+Footloose,"Comedy,Drama,Music",931,2011,5.9,58.0
+If I Stay,"Drama,Fantasy,Music",932,2014,6.8,46.0
+The Ticket,Drama,933,2016,5.4,52.0
+Detour,Thriller,934,2016,6.3,46.0
+The Love Witch,"Comedy,Horror",935,2016,6.2,82.0
+Talladega Nights: The Ballad of Ricky Bobby,"Action,Comedy,Sport",936,2006,6.6,66.0
+The Human Centipede (First Sequence),Horror,937,2009,4.4,33.0
+Super,"Comedy,Drama",938,2010,6.8,50.0
+The Siege of Jadotville,"Action,Drama,Thriller",939,2016,7.3,83.0
+Up in the Air,"Drama,Romance",940,2009,7.4,
+The Midnight Meat Train,"Horror,Mystery",941,2008,6.1,58.0
+The Twilight Saga: Eclipse,"Adventure,Drama,Fantasy",942,2010,4.9,58.0
+Transpecos,Thriller,943,2016,5.8,73.0
+What's Your Number?,"Comedy,Romance",944,2011,6.1,35.0
+Riddick,"Action,Sci-Fi,Thriller",945,2013,6.4,49.0
+Triangle,"Fantasy,Mystery,Thriller",946,2009,6.9,66.0
+The Butler,"Biography,Drama",947,2013,7.2,
+King Cobra,"Crime,Drama",948,2016,5.6,48.0
+After Earth,"Action,Adventure,Sci-Fi",949,2013,4.9,33.0
+Kicks,Adventure,950,2016,6.1,69.0
+Me and Earl and the Dying Girl,"Comedy,Drama",951,2015,7.8,74.0
+The Descendants,"Comedy,Drama",952,2011,7.3,84.0
+Sex and the City 2,"Comedy,Drama,Romance",953,2010,4.3,27.0
+The Kings of Summer,"Adventure,Comedy,Drama",954,2013,7.2,61.0
+Death Race,"Action,Sci-Fi,Thriller",955,2008,6.4,43.0
+That Awkward Moment,"Comedy,Romance",956,2014,6.2,36.0
+Legion,"Action,Fantasy,Horror",957,2010,5.2,32.0
+End of Watch,"Crime,Drama,Thriller",958,2012,7.7,68.0
+3 Days to Kill,"Action,Drama,Thriller",959,2014,6.2,40.0
+Lucky Number Slevin,"Crime,Drama,Mystery",960,2006,7.8,53.0
+Trance,"Crime,Drama,Mystery",961,2013,7.0,61.0
+Into the Forest,"Drama,Sci-Fi,Thriller",962,2015,5.9,59.0
+The Other Boleyn Girl,"Biography,Drama,History",963,2008,6.7,50.0
+I Spit on Your Grave,"Crime,Horror,Thriller",964,2010,6.3,27.0
+Custody,Drama,965,2016,6.9,72.0
+Inland Empire,"Drama,Mystery,Thriller",966,2006,7.0,
+L'odyssée,"Adventure,Biography",967,2016,6.7,70.0
+The Walk,"Adventure,Biography,Crime",968,2015,7.3,
+Wrecker,"Action,Horror,Thriller",969,2015,3.5,37.0
+The Lone Ranger,"Action,Adventure,Western",970,2013,6.5,
+Texas Chainsaw 3D,"Horror,Thriller",971,2013,4.8,62.0
+Disturbia,"Drama,Mystery,Thriller",972,2007,6.9,
+Rock of Ages,"Comedy,Drama,Musical",973,2012,5.9,47.0
+Scream 4,"Horror,Mystery",974,2011,6.2,52.0
+Queen of Katwe,"Biography,Drama,Sport",975,2016,7.4,73.0
+My Big Fat Greek Wedding 2,"Comedy,Family,Romance",976,2016,6.0,37.0
+Dark Places,"Drama,Mystery,Thriller",977,2015,6.2,39.0
+Amateur Night,Comedy,978,2016,5.0,38.0
+It's Only the End of the World,Drama,979,2016,7.0,48.0
+The Skin I Live In,"Drama,Thriller",980,2011,7.6,70.0
+Miracles from Heaven,"Biography,Drama,Family",981,2016,7.0,44.0
+Annie,"Comedy,Drama,Family",982,2014,5.3,33.0
+Across the Universe,"Drama,Fantasy,Musical",983,2007,7.4,56.0
+Let's Be Cops,Comedy,984,2014,6.5,30.0
+Max,"Adventure,Family",985,2015,6.8,47.0
+Your Highness,"Adventure,Comedy,Fantasy",986,2011,5.6,31.0
+Final Destination 5,"Horror,Thriller",987,2011,5.9,50.0
+Endless Love,"Drama,Romance",988,2014,6.3,30.0
+Martyrs,Horror,989,2008,7.1,89.0
+Selma,"Biography,Drama,History",990,2014,7.5,
+Underworld: Rise of the Lycans,"Action,Adventure,Fantasy",991,2009,6.6,44.0
+Taare Zameen Par,"Drama,Family,Music",992,2007,8.5,42.0
+Take Me Home Tonight,"Comedy,Drama,Romance",993,2011,6.3,
+Resident Evil: Afterlife,"Action,Adventure,Horror",994,2010,5.9,37.0
+Project X,Comedy,995,2012,6.7,48.0
+Secret in Their Eyes,"Crime,Drama,Mystery",996,2015,6.2,45.0
+Hostel: Part II,Horror,997,2007,5.5,46.0
+Step Up 2: The Streets,"Drama,Music,Romance",998,2008,6.2,50.0
+Search Party,"Adventure,Comedy",999,2014,5.6,22.0
+Nine Lives,"Comedy,Family,Fantasy",1000,2016,5.3,11.0
